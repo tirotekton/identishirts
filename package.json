@@ -1,0 +1,20 @@
+{
+  "name": "identshirts",
+  "author": "tirotekton <solus1@protonmail.com>",
+  "description": "identshirts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "dependencies": {
+    "browser-env": "^2.0.31",
+    "cheerio": "^0.22.0",
+    "identicon.js": "^2.2.1",
+    "jdenticon": "^1.4.0",
+    "pi": "^1.2.7",
+    "svg2png": "^4.1.1"
+  }
+}
